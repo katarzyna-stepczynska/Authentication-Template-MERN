@@ -1,7 +1,8 @@
+import asyncHandler from "express-async-handler";
+import User from "../models/userModel.js";
 //Description: Auth user/set token
 //Route:  POST api/users/auth
 //Access  Public
-import asyncHandler from "express-async-handler";
 const authUser = asyncHandler(async (req, res) => {
   // res.status(401);
   // throw new Error("Something went wrong");
