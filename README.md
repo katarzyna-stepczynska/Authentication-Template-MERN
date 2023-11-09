@@ -1,9 +1,9 @@
-# Authentication - Sign In, Update Profile, Register Profile 
+# Authentication Template - Sign In, Update Profile, Register Profile 
 ## Build Fullstack MERN Application
 ### Practise coding with Traversy Media
 
 ##### Introduction:
-Make authentication setup as single-page application on the frontend using React, Redux, React Router and React Bootstrap. The backend will use Express, MongoDB and Mongoose for the database and will implement authentication using JWT (JSON Web Tokens) and HTTP-only cookies. Using Redux for state management and Redux Toolkit for making things easier.
+Make authentication setup as single-page application on the frontend using React, Redux, React Router and React Bootstrap. Use Vite to generate react file and folder structure. The backend will use Express, MongoDB and Mongoose for the database and will implement authentication using JWT (JSON Web Tokens) and HTTP-only cookies. Using Redux for state management and Redux Toolkit for making things easier.
 
 ##### Libraries used:
 Backend (server):
@@ -14,7 +14,13 @@ Backend (server):
 * jsonwebtoken
 * cookie-parser
 * express-async-handler
+* mongodb
 * nodemon (as dev-dependencies)
+
+Frontend (client):
+* bootstrap
+* react-bootstrap
+* react-icons
 
 ##### Status:
 Project is: **IN PROGRESS**
