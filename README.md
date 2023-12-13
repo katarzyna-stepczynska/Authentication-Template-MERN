@@ -28,7 +28,7 @@ Frontend (client):
 * react-toastify
 
 ##### Status:
-Project is: **IN PROGRESS**
+Project is: **DONE**
 
 In future:
 - [ ] deploy
